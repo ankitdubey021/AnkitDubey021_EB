@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647736387676",
+    "firebase_url": "https://fashion-mania-12b39.firebaseio.com",
+    "project_id": "fashion-mania-12b39",
+    "storage_bucket": "fashion-mania-12b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647736387676:android:05fa0776444a58bf",
+        "android_client_info": {
+          "package_name": "com.eb.ankitdubey021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647736387676-dccb2giu1grmlhobbo1fmsotqpg3rgdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eb.ankitdubey021",
+            "certificate_hash": "9e8ee92295f2bb897918bbf7aa75ed9fed0eb336"
+          }
+        },
+        {
+          "client_id": "647736387676-evsq2binf7qnvj3spagrk784p3k1pmpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZthv3BBJiSjyK0pzxsTcGaCUDJoHn-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647736387676-evsq2binf7qnvj3spagrk784p3k1pmpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

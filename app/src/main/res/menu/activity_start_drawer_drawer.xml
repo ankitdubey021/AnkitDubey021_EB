@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_register"
+
+            android:title="Register" />
+        <item
+            android:id="@+id/nav_products"
+
+            android:title="Our Products" />
+        <item
+            android:id="@+id/nav_resource"
+
+            android:title="Find Resource" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_send"
+
+            android:title="Send Enquiry" />
+
+        <item
+            android:id="@+id/dummy1"
+
+            android:title="" />
+
+        <item
+            android:id="@+id/dummy2"
+
+            android:title="" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+        </menu>
+    </item>
+
+</menu>
